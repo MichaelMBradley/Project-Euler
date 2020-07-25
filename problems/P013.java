@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class P013 {
 	public static void main(String[] args) {
 		double temp = 0;
-		String File = "info/P013.txt";
+		String File = "data/P013.txt";
 		String[] nums = new String[100];
 		try {
 			Scanner sc = new Scanner(new FileReader(File));

@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class P011 {
 	public static void main(String[] args) {
-		String File = "info/P011.txt";
+		String File = "data/P011.txt";
 		int[][] nums = new int[20][20];
 		double best = 0;
 		double temp;
@@ -45,7 +45,7 @@ public class P011 {
 			e.printStackTrace();
 		}
 	}
-	
+
 	public static double prod(int x, int y, int a, int b, int[][] nums) {
 		double t = nums[x][y];
 		for(int j = 1; j < 4; j++) {
