@@ -1,6 +1,7 @@
 public class P014 {
 	public static void main(String[] args) {
 		int best = 0;
+		int besti = 0;
 		double n;
 		int t;
 		for(int i = 2; i < 1000000; i++) {
@@ -16,8 +17,9 @@ public class P014 {
 			} while(n!=1);
 			if(t>best) {
 				best = t;
-				System.out.println(i + " " + t);
+				besti = i;
 			}
 		}
+		System.out.println(besti);
 	}
 }
