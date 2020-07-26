@@ -19,4 +19,3 @@ public class P015 {
 	}
 }
 //137846528820
-//[Finished in 0.54s]

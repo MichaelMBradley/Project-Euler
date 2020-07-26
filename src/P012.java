@@ -21,4 +21,3 @@ public class P012 {
 	}
 }
 //76576500
-//[Finished in 3.473s]

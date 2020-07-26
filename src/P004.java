@@ -18,4 +18,3 @@ public class P004 {
 	}
 }
 //906609
-//[Finished in 0.517s]

@@ -17,4 +17,3 @@ public class P002 {
 	}
 }
 //4613732
-//[Finished in 0.534s]

@@ -13,4 +13,3 @@ public class P009 {
 	}
 }
 //31875000
-//[Finished in 0.559s]

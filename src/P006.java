@@ -13,4 +13,3 @@ public class P006 {
 	}
 }
 //2516415
-//[Finished in 0.551s]
