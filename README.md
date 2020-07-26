@@ -22,4 +22,3 @@ Some of my methods are good, some are **terrible**, but most are *okay* and they
 
 ### Notes
 * See problems 3, 5, 7, among others for look at prime calculation
-* See problems 8, 11, 13, among others for reading files
