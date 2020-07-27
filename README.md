@@ -19,6 +19,14 @@ Some of my methods are good, some are **terrible**, but most are *okay* and they
 013. Large sum
 014. Longest Collatz sequence
 015. Lattice paths
+016. Power digit sum - **Unfinished**
+017. Number letter counts
+018. Maximum path sum I
+019. Counting Sundays
+020. Factorial digit sum - **Unfinished**
 
-### Notes
-* See problems 3, 5, 7, among others for look at prime calculation
+
+067 Maximum path sum II
+
+##### Note
+Problem 3, 5, 7, have an okay way of calculating prime numbers, problem 10 has a fast way.
