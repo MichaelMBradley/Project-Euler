@@ -14,7 +14,6 @@ public class P010 {
 				for(int j = i*2; j < MAX; j+=i) {
 					c.set(j, true);
 				}
-				System.out.println(i);
 				sum+=i;
 			}
 		}
