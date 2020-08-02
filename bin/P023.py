@@ -20,6 +20,7 @@ for j in range(1, MAX):
     for k in range(len(nums)):
         if nums[k] == True and nums[j-k] == True:
             va = True
+            break
     if va == False:
         su+=j
 
