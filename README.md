@@ -1,5 +1,5 @@
 # Project-Euler
-A collection of solutions to Project Euler problems, written in Java.
+A collection of my solutions to Project Euler problems. Problems 1-20, 67 are written in Java, others are written in Python.
 
 Some of my methods are good, some are **terrible**, but most are *okay* and they all eventually lead to the right answer.
 
@@ -24,6 +24,8 @@ Some of my methods are good, some are **terrible**, but most are *okay* and they
 018. Maximum path sum I
 019. Counting Sundays
 020. Factorial digit sum
+021. Amicable numbers
+022. Names scores
 
 ...
 
