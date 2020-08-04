@@ -27,7 +27,7 @@ Some of my methods are good, some are **terrible**, but most are *okay* and they
 021. Amicable numbers
 022. Names scores
 023. Non-abundant sums
-024. Lexicographic permutations - **Unsolved**
+024. Lexicographic permutations
 025. 1000-digit Fibonacci number
 
 ...
