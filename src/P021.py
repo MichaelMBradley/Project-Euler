@@ -13,7 +13,7 @@ def amiSum(n):
 s = 0
 for x in range(1, 10000):
     a = amiSum(x)
-    if amiSum(a) == x and a < 10000 and x != a:
+    if amiSum(a) == x != a < 10000:
         s += x
 
 print(s)

@@ -1,7 +1,7 @@
 # Project-Euler
-A collection of my solutions to Project Euler problems. Problems 1-20, 67 are written in Java, others are written in Python. I'm just using this to learn/practice so don't expect much.
+A collection of my solutions to Project Euler problems. Problems 1-20, 24, 67 are written in Java, the rest are Python. I'm just using this to learn/practice so don't expect much.
 
-Some of my methods are good, some are **terrible**, but most are *okay* and they all eventually lead to the right answer.
+The goal isn't to make the best algorithm, just to make a relatively quick one and to get some practice.
 
 ### Index
 001. Multiples of 3 and 5
@@ -29,9 +29,13 @@ Some of my methods are good, some are **terrible**, but most are *okay* and they
 023. Non-abundant sums
 024. Lexicographic permutations
 025. 1000-digit Fibonacci number
+026. Reciprocal Cycles
+027. Quadratic Primes
 028. Number spiral diagonals
 029. Distinct powers
-067. Maximum path sum II
+030. Digit fifth powers
 
-##### Note
-Use problem 10 if you want a not as bad way of computing prime numbers. Other problems have a method that compute the first n primes, but they're pretty slow.
+.067. Maximum path sum II
+
+##### Note on primes
+Some of my early solutions have prime generating functions that are quite inefficient. In problems 10, 27 (among others) a more efficient algorithm is used, but I won't be replacing the algorithms in the early problems as they generate so few primes the efficiency loss is negligible.
