@@ -34,6 +34,20 @@ The goal isn't to make the best algorithm, just to make a relatively quick one a
 028. Number spiral diagonals
 029. Distinct powers
 030. Digit fifth powers
+031. Coin Sums
+032. Pandigital products
+033. Digit cancelling fractions
+034. Digit factorials
+035. Circular primes
+036. Double-base palindromes
+037. Truncatable primes
+038. Pandigital multiples
+039. Integer right triangles
+040. Champernowne's constant
+041. Pandigital prime
+042. Coded triangle numbers
+043. Sub-string divisibility
+044. Pentagon numbers
 
 .067. Maximum path sum II
 
