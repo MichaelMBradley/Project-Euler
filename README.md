@@ -48,6 +48,12 @@ The goal isn't to make the best algorithm, just to make a relatively quick one a
 042. Coded triangle numbers
 043. Sub-string divisibility
 044. Pentagon numbers
+045. Triangular, pentagonal, and hexagonal
+046. Goldbach's other conjecture
+047. Distinct primes factors
+048. Self powers
+049. Prime permutations
+050. Consecutive prime sum
 
 .067. Maximum path sum II
 
