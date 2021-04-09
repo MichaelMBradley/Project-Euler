@@ -55,6 +55,8 @@ The goal isn't to make the best algorithm, just to make a relatively quick one a
 049. Prime permutations
 050. Consecutive prime sum
 
+.052. Permuted Multiples
+
 .067. Maximum path sum II
 
 ##### Note on primes
